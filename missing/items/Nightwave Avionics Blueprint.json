@@ -1,0 +1,74 @@
+{
+    "tags": [
+        "blueprint"
+    ],
+    "icon": "https://content.warframe.com/PublicExport/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericLandingCraftSystems.png!00_CCLVSw5+MOf1hKce3BJc3w",
+    "sub_icon": "sub_icons/landingCraft/generic_avionics_128x128.png",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipAvionicsBlueprint"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Nightwave Avionics Blueprint",
+            "description": "Avionics component of the Nightwave landing craft",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "ru": {
+            "item_name": "Ночная Волна: Авионика (Чертеж)",
+            "description": "Компонент корабля «Ночная волна»: Авионика",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "ko": {
+            "item_name": "나이트웨이브 항공 전자 기기 설계도",
+            "description": "나이트웨이브 착륙정의 전자 기기 부분입니다",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "de": {
+            "item_name": "Nightwave: Avionik Blaupause",
+            "description": "Die Avionik-Komponente für das Nightwave Landungsschiff",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "fr": {
+            "item_name": "Avioniques Ondes Nocturnes (Schéma)",
+            "description": "Le composant Avioniques du Vaisseau de Débarquement Ondes Nocturnes",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "pt": {
+            "item_name": "Nightwave: Aviônicos (Diagrama)",
+            "description": "Aviônicos componentes da Nave de Pouso da Nightwave.",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "zh-hans": {
+            "item_name": "午夜电波飞航系统 蓝图",
+            "description": "午夜电波登陆艇的飞航系统部件",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "zh-hant": {
+            "item_name": "午夜電波航宇電設 藍圖",
+            "description": "午夜電波登陸艇的航宇電設部件",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "es": {
+            "item_name": "Plano de Aviónicas De Onda Nocturna",
+            "description": "Componente de aviónicas de la nave de desembarco Onda Nocturna",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "it": {
+            "item_name": "Avioniche Nightwave (Schema)",
+            "description": "Componente Avionica della navicella Nightwave",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "pl": {
+            "item_name": "Gwiezdny Szlak: Awionika - Schemat",
+            "description": "Awionika statku desantowego Gwiezdnego Szlaku",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "uk": {
+            "item_name": "Нічна Хвиля: Авіоніка (кресленик)",
+            "description": "Деталі авіоніки для десантного судна «Нічна хвиля».",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        }
+    },
+    "trading_tax": 2000
+}

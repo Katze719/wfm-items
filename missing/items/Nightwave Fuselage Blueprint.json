@@ -1,0 +1,74 @@
+{
+    "tags": [
+        "blueprint"
+    ],
+    "icon": "https://content.warframe.com/PublicExport/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericLandingCraftFuselage.png!00_1ovZQb8dxr9CNW6Cc1LQKA",
+    "sub_icon": "sub_icons/landingCraft/generic_fuselage_128x128.png",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipFuselageBlueprint"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Nightwave Fuselage Blueprint",
+            "description": "Fuselage component of the Nightwave landing craft",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "ru": {
+            "item_name": "Ночная Волна: Фюзеляж (Чертеж)",
+            "description": "Компонент корабля «Ночная волна»: Фюзеляж",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "ko": {
+            "item_name": "나이트웨이브 동체 설계도",
+            "description": "나이트웨이브 착륙정의 동체 부분입니다",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "de": {
+            "item_name": "Nightwave: Rumpf Blaupause",
+            "description": "Die Rumpf-Komponente für das Nightwave Landungsschiff",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "fr": {
+            "item_name": "Fuselage Ondes Nocturnes (Schéma)",
+            "description": "Le composant Fuselage du Vaisseau de Débarquement Ondes Nocturnes",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "pt": {
+            "item_name": "Nightwave: Fuselagem (Diagrama)",
+            "description": "Fuselagem componente da Nave de Pouso da Nightwave.",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "zh-hans": {
+            "item_name": "午夜电波机身 蓝图",
+            "description": "午夜电波登陆艇的机身部件",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "zh-hant": {
+            "item_name": "午夜電波機身 藍圖",
+            "description": "午夜電波登陸艇的機身部件",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "es": {
+            "item_name": "Plano de Fuselaje De Onda Nocturna",
+            "description": "Componente del fuselaje de la nave de desembarco Onda Nocturna",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "it": {
+            "item_name": "Fusoliera Nightwave (Schema)",
+            "description": "Componente Fusoliera della navicella Nightwave",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "pl": {
+            "item_name": "Kadłub: Gwiezdny Szlak - Schemat",
+            "description": "Kadłub statku desantowego Gwiezdnego Szlaku",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "uk": {
+            "item_name": "Нічна Хвиля: Фюзеляж (кресленик)",
+            "description": "Деталі фюзеляжу для десантного судна «Нічна хвиля».",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        }
+    },
+    "trading_tax": 2000
+}

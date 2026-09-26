@@ -1,0 +1,74 @@
+{
+    "tags": [
+        "blueprint"
+    ],
+    "icon": "https://content.warframe.com/PublicExport/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericLandingCraftEngines.png!00_i0z5LYOS+Lu8bf-ncmLZNg",
+    "sub_icon": "sub_icons/landingCraft/generic_core_128x128.png",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipEnginesBlueprint"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Nightwave Engines Blueprint",
+            "description": "Engines component of the Nightwave landing craft",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "ru": {
+            "item_name": "Ночная Волна: Двигатели (Чертеж)",
+            "description": "Компонент корабля «Ночная волна»: Двигатели",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "ko": {
+            "item_name": "나이트웨이브 엔진 설계도",
+            "description": "나이트웨이브 착륙정의 엔진 부분입니다",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "de": {
+            "item_name": "Nightwave: Triebwerke Blaupause",
+            "description": "Die Triebwerk-Komponente für das Nightwave Landungsschiff",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "fr": {
+            "item_name": "Moteurs Ondes Nocturnes (Schéma)",
+            "description": "Le composant Moteurs du Vaisseau de Débarquement Ondes Nocturnes",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "pt": {
+            "item_name": "Nightwave: Motores (Diagrama)",
+            "description": "Motores componentes da Nave de Pouso da Nightwave.",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "zh-hans": {
+            "item_name": "午夜电波引擎 蓝图",
+            "description": "午夜电波登陆艇的引擎部件",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "zh-hant": {
+            "item_name": "午夜電波引擎 藍圖",
+            "description": "午夜電波登陸艇的引擎部件",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "es": {
+            "item_name": "Plano de Motores De Onda Nocturna",
+            "description": "Componente de los motores de la nave de desembarco Onda Nocturna",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "it": {
+            "item_name": "Motori Nightwave (Schema)",
+            "description": "Componente Motori della navicella Nightwave",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "pl": {
+            "item_name": "Silniki: Gwiezdny Szlak - Schemat",
+            "description": "Silnik statku desantowego Gwiezdnego Szlaku",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        },
+        "uk": {
+            "item_name": "Нічна Хвиля: Рушії (кресленик)",
+            "description": "Деталі рушіїв для десантного судна «Нічна хвиля».",
+            "wiki_link": "https://wiki.warframe.com/w/Nightwave_(Landing_Craft)"
+        }
+    },
+    "trading_tax": 2000
+}
