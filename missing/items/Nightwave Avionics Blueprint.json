@@ -8,6 +8,14 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipAvionicsBlueprint"
     },
+    "part_of_set": [
+        "nightwave_avionics_blueprint",
+        "nightwave_engines_blueprint",
+        "nightwave_fuselage_blueprint",
+        "nightwave_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
     "i18n": {
         "en": {
             "item_name": "Nightwave Avionics Blueprint",
